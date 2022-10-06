@@ -5,7 +5,7 @@ import Notification from './Notification';
 import Section from './Section';
 import css from './App.module.css';
 
-export default function () {
+export default function App() {
   const [good, setGood] = useState(0);
   const [neutral, setNeutral] = useState(0);
   const [bad, setBad] = useState(0);
