@@ -1,5 +1,6 @@
 .feedbackList {
   display: flex;
+  justify-content: center;
 }
 
 .feedbackItem {
@@ -12,7 +13,7 @@
 
 .feedbackButton {
   padding: 10px 20px;
-  background-color: rgb(58, 196, 143);
+  background-color: rgb(74, 65, 211);
   color: white;
   border: transparent;
   border-radius: 2px;
@@ -22,5 +23,5 @@
 
 .feedbackButton:active {
   box-shadow: 2px 5px 2px 0 rgb(0 0 0 / 0.5);
-  background-color: rgb(13, 150, 97);
+  background-color: rgb(83, 72, 240);
 }
