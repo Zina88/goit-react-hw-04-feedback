@@ -1,0 +1,12 @@
+.statisticsItem {
+  margin-bottom: 5px;
+}
+
+.statisticsItem:last-child {
+  margin-bottom: 0;
+}
+
+.statValue {
+  color: rgb(58, 196, 143);
+  font-weight: 500;
+}

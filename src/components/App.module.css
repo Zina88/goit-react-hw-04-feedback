@@ -1,0 +1,12 @@
+.container {
+  width: 400px;
+  margin: 15px;
+}
+
+.section {
+  border-bottom: 1px solid rgb(58, 196, 143);
+}
+
+.section:last-child {
+  border: none;
+}
